@@ -1,4 +1,4 @@
-# EX-02-3c   FACTORIAL OF A NUMBER
+# EX-2(C)   FACTORIAL OF A NUMBER
 
 ## AIM:
 To write a C program for finding the factorial of a given number .
