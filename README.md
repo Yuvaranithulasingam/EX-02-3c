@@ -4,6 +4,7 @@
 To write a C program for finding the factorial of a given number .
 
 ## ALGORITHM:
+
 1: Start the program.
 2:Declare the variable fact(),i,n.
 3: Initialize fact to 1.
