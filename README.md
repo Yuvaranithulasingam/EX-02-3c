@@ -4,14 +4,20 @@
 To write a C program for finding the factorial of a given number .
 
 ## ALGORITHM:
-
 1: Start the program.
+
 2:Declare the variable fact(),i,n.
+
 3: Initialize fact to 1.
+
 4: Read the input value for n using scanf().
+
 5: Set up a for loop that iterates from i=1 to i<=n.
+
 6: Inside the loop, update fact by multiplying it with i.
+
 7: After the loop completes, print the factorial value using printf().
+
 8: Stop the program.
 
 ## PROGRAM:
